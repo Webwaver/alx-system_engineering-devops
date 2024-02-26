@@ -1,2 +1,1 @@
-0x03. Shell, init files, variables and expansions.
-These files will help us understand Shell init, varibales and expansions better.
+Shell, init files, variables and expansions
